@@ -16,6 +16,6 @@ Type text in the textarea, select a voice from the dropdown, and click **Listen*
 
 ## Demo
 
-![Demo Screenshot](Screenshot.png)  
+![Demo Screenshot](images/Screenshot.png)  
 
 --
